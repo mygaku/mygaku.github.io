@@ -1,0 +1,3 @@
+[submodule "mygaku/themes/hellofriend"]
+	path = mygaku/themes/hellofriend
+	url = git@github.com:panr/hugo-theme-hello-friend.git
