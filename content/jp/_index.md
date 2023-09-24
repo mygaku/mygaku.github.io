@@ -3,7 +3,7 @@ title: "マイ学"
 
 description: "lalala"
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/bridge_very_narrow.jpg'
 ---
 
 lalalal
