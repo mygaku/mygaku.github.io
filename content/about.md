@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2019-01-25"
-author = "Radek"
+author = "MyGaku"
 +++
 
 # Hi there
@@ -15,7 +15,6 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
 The theme includes:
 
 - **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
 - nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
 
 So, there you have it... enjoy!
