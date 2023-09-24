@@ -16,10 +16,10 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
-    title = "Ananke Fr"
+  [languages.jp]
+    title = "マイ学"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/jp"
 
 [sitemap]
   changefreq = "monthly"
