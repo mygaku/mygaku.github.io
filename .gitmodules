@@ -4,3 +4,7 @@
 [submodule "themes/meghna"]
 	path = themes/meghna
 	url = git@github.com:themefisher/meghna-hugo.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
