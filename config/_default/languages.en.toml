@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "mygaku"
+title = "Tokyo Cyber School"
 contentDir = "content/en"
 
 [params]

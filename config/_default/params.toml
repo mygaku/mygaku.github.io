@@ -28,14 +28,14 @@ defaultFeaturedImage = "images/bridge_very_narrow.jpg" # used as default for fea
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
-  showMenu = true
+  showMenu = false
   showCopyright = false
   showThemeAttribution = false
   showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/images/bridge_very_narrow.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
@@ -62,11 +62,11 @@ defaultFeaturedImage = "images/bridge_very_narrow.jpg" # used as default for fea
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
   showReadingTime = false
   showTableOfContents = false
-  # showRelatedContent = false
+  showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false

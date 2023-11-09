@@ -1,30 +1,30 @@
 ---
-title: "マイ学"
+title: "東京サイバースクールへようこそ！"
 
 description: "lalala"
 cascade:
   featured_image: '/images/bridge_very_narrow.jpg'
 ---
 
-lalalal
 
-日本語でlalalalala
+ここでは、子どもたちがプログラミングの面白さを通じて創造性と論理を伸ばす旅に出ます！🚀
 
-and some very very very 
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
-very very very very very
- long  text just to see how wide it is
+# 私たちについて:
+
+東京サイバースクールでは、未来のテックリーダーを育てることを信じ、東京の中心地に位置するプログラミングスクールで、8歳から14歳の若い学習者にコーディングの未来の言語を学ぶためのダイナミックで魅力的なプラットフォームを提供しています。
+
+私たちの焦点: クリエイティブコーディングと基本的なアルゴリズム
+
+私たちのカリキュラムは従来のコーディングクラスを超えています。私たちはクリエイティブなコーディングに重点を置き、学生がデジタルの創造物を通じて自分自身を表現することを奨励しています。対話型のストーリーやゲームからアニメーションアートまで、私たちはコーディングが単なるスキルでなく、自己表現のための強力なツールであると信じています。
+
+創造性を引き出すだけでなく、基本的なアルゴリズムのしっかりとした基盤を築くことにも力を入れています。私たちのコースは、楽しくアクセス可能な方法で主要なプログラミングの概念を紹介し、常に進化するテクノロジーの景観での将来の成功の基盤を築きます。
+
+授業言語: 英語と日本語のフォローアップ
+
+私たちのグローバル化された世界では、英語の習熟度は貴重なスキルです。CodeKidsでは、すべての授業が英語で行われ、学生がプログラミングの言語を学ぶための自然で没入型の環境を提供しています。理解と快適さを確保するために、経験豊富な講師が日本語でフォローアップサポートを提供し、言語が学びの障壁にならないようにしています。
+
+講師紹介: 経験豊富なITベテラン
+
+すべての素晴らしい学習体験の背後には素晴らしい講師がいます。私たちの主任講師は、業界とアカデミアの両方で豊富な経験を持つITベテランです。技術への情熱と複雑なコンセプトを分かりやすくする才能を持つ講師は、リアルワールドの洞察と学術的な厳密さを教室にもたらし、充実した楽しい学習環境を作り出します。
+
+CodeKids Tokyoでは、単なるコーディングを教えるのではなく、次世代のイノベーターをインスパイアします。想像力がテクノロジーと出会い、若い心が自信に満ち、創造的で有能なコーダーに成長するこのエキサイティングな冒険に参加してください！🌟
