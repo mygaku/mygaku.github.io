@@ -7,4 +7,37 @@ menu:
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+🚀🐍 Unlock the World of Creativity with Python for Kids! 🐍🚀
+
+Hey parents and young tech enthusiasts! 🌟 Is your child ready to embark on a thrilling journey into the world of programming? Look no further – our Python Programming Class for Kids is here to ignite their passion for coding!
+
+🌈 Why Python?
+Python is a versatile and beginner-friendly language that opens the door to endless possibilities. It's not just about coding; it's about problem-solving, creativity, and having fun while learning valuable skills for the future!
+
+👩‍💻 What Will Kids Learn?
+Our interactive classes are designed to make learning Python a breeze! From basic syntax to creating games, animations, and simple applications, your child will develop a solid foundation in programming.
+
+🚀 Highlights of the Class:
+
+    Engaging hands-on activities
+    Fun coding challenges and games
+    Collaborative learning environment
+    Experienced and friendly instructors
+    Accessible for beginners – no prior coding experience needed!
+
+📅 Class Details:
+
+    Start Date: Feb 3rd
+    Duration: 1h
+    Age Group: 8-14 yo
+    Schedule: Wednesday Evening
+
+🌟 Why Choose Us?
+Our mission is to make learning Python an exciting adventure! We prioritize a supportive and encouraging atmosphere to boost your child's confidence as they delve into the world of programming.
+
+🎉 Enroll Now! Spaces are Limited!
+Don't miss the chance to spark your child's curiosity and creativity through coding. Secure their spot in our Python Programming Class – where learning is fun, interactive, and empowering!
+
+To enroll or for more information, contact us at [Contact Information].
+
+🚀 Unlock the power of Python and let your child's coding journey begin! 🚀
