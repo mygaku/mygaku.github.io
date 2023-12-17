@@ -12,7 +12,7 @@
 
 
 [[main]]
-  name = "ブロッグ"
+  name = "ブログ"
   pageRef = "blog"
   weight = 30
 

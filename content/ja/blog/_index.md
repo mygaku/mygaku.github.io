@@ -1,5 +1,5 @@
 ---
-title: "ブロッグ"
+title: "ブログ"
 description: "Learn how to use Blowfish and its features."
 
 cascade:

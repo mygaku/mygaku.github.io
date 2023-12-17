@@ -1,7 +1,7 @@
 languageCode = "ja"
 languageName = "Japanese"
 weight = 1
-title = "東京サイバースクール"
+title = "NEXT-GEN Study Club"
 contentDir = "content/ja"
 
 [params]
