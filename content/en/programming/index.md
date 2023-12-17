@@ -4,6 +4,7 @@ description: "A few years ago, while visiting or, rather, rummaging about Notre-
 menu:
   main:
     weight: 10
+showDate: false
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 

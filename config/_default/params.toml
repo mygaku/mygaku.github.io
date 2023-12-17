@@ -37,7 +37,7 @@ highlightCurrentMenuArea = true
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/images/bridge_very_narrow.jpg" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts"
@@ -46,7 +46,7 @@ highlightCurrentMenuArea = true
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateUpdated = false
@@ -56,7 +56,7 @@ highlightCurrentMenuArea = true
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showDraftLabel = true
+  showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
