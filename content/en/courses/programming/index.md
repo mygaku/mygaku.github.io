@@ -1,9 +1,10 @@
 ---
 title: "Programming"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "programming in English"
 menu:
   main:
     weight: 10
+    parent: Courses
 showDate: false
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}

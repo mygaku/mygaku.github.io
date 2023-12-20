@@ -16,6 +16,11 @@
   pageRef = "blog"
   weight = 30
 
+[[main]]
+  name = "Courses"
+  weight = 1
+
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
