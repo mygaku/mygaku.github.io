@@ -15,10 +15,10 @@
             <label for="email" class="block mb-2 font-medium text-sm text-gray-600 dark:text-gray-400">{{ i18n "emailAddress" }}</label>
             <input style="color: rgb(51, 51, 51);" type="email" name="email" id="email" placeholder="you@company.com" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-400 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-500 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
           </div>
-          
+
           Select Date
           <div class="mb-6">
-            <select name="cars" id="cars" class="w-full rounded-md">
+            <select name="date" id="date" class="w-full rounded-md">
             <optgroup label="January">
               <option value="Jan 12">12th</option>
               <option value="Jan 17">17th</option>
@@ -27,17 +27,19 @@
               <option value="Feb 13">13th</option>
               <option value="Feb 18">18th</option>
             </optgroup>
-          </select>      
+          </select>
           </div>
           <div class="mb-6">
             <label for="message" class="block mb-2 font-medium text-sm text-gray-600 dark:text-gray-400"> {{ i18n "message" }}</label>
 
             <textarea style="color: rgb(51, 51, 51);" rows="5" name="message" id="message" placeholder="Your Message" class="w-full px-3 py-2 placeholder-gray-300 border border-gray-400 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-500 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea>
           </div>
-          <div class="mb-6">
-            <button type="submit" class="w-full px-3 py-4 text-white bg-indigo-700 rounded-md focus:bg-indigo-600 focus:outline-none">
+          <div class="mb-6  flex flex-col items-center">
+            <button type="submit" class="btn !rounded-md  px-4 py-2 border-solid border-2 border-neutral-500   dark:hover:!bg-neutral-700">
               {{ i18n "send" }}
             </button>
+
+
           </div>
           <p class="text-base text-center text-gray-400" id="result"></p>
         </form>
