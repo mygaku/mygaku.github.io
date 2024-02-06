@@ -1,0 +1,22 @@
+---
+title: 連絡
+showDate: false
+#featured_image: ''
+#omit_header_text: true
+#description: We'd love to hear from you
+#type: page
+menu: main
+
+---
+
+<div class="flex border border-neutral-700 w-full h-64" hx-get="http://kodi.blackbird.pw:8123/get_club_availability" hx-trigger="load" hx-swap="outerHTML">
+    <div class="grid m-auto">
+      <div class="col-start-1 row-start-1">
+        loading calendar
+      </div>
+      <div class="col-start-1 row-start-2 m-auto">
+        <img class="h-12" src="/images/loading.webp">
+      </div>
+    </div>
+  </div>
+{{< form-contact action="https://example.com"  >}}
