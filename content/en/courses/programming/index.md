@@ -24,7 +24,7 @@ Course content can be adjusted for your individual needs and preparation level. 
 
 🎨 Creative coding is where art and programming collide!
 Rather than just building functional programs, we will use code as a tool for artistic expression.
-The goal of this course is to not only achieve aethetically pleasing relusts (though it in itselv is a lot of fun!),
+The goal of this course is to not only achieve aethetically pleasing relusts (though it in itself is a lot of fun!),
 but also, while doing so, develop a solid command of Python programing language and essential coding skills.
 From simple 2D graphic, we can venture into 3D, music, animation and game development, AI art - the sky is the limit.
 
