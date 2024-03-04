@@ -62,7 +62,7 @@ Please don't hesitate to ask if something you are interested in is not on the li
 ## 📅 Class Details:
 
     Duration: 1h
-    Age Group: 8-14 yo, adult classes in individual format
+    Age Group: 8 years old and up, adult classes in individual format
     Schedule: Wednesday Evening / ask if need adjustment
 
 ## 🌟 Why Choose Us?
