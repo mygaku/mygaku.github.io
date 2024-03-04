@@ -35,7 +35,7 @@ Read more about creative coding in our blog: LINK WILL BE HERE TO BLOG PAGE WITH
 In general we can provide guidance in the following areas:
 
 - Python: essential progamming skills, automation of everyday tasks
-- machine learning
+- machine learning and data analysis
 - backend developent
 - C and C++ programming languages
 - high performance computing
