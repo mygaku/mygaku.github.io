@@ -1,14 +1,14 @@
 ---
 title: "Creative Programming and Algorithmic Art"
 date: 2024-03-03
-description: "Guide to crative programming"
+description: "Guide to creative programming"
 summary: "Creative coding is at intersection of technology and art"
 tags: ["programming", "art"]
 ---
 
 Creative coding is about using programming for creative expression:
-making aethetically appealing images, animation, music, etc. 
-Perhaps the most well known form of creative ecoding is *algorithmic (also called generative) art*.
+making aesthetically appealing images, animation, music, etc. 
+Perhaps the most well known form of creative coding is *algorithmic (also called generative) art*.
 Creative coding and algorithmic art are closely related, but there's a subtle difference in focus:
 
 - Creative coding is the broader practice. It's about using code for any creative purpose, not just art. This could involve making interactive installations, generating music, or even designing products. Think of it as the big tent that holds all sorts of creative projects made with code.
@@ -25,7 +25,7 @@ Algorithmic art can be a fantastic way to learn programming! Here's why:
 
 ## How to do algorithmic art?
 
-Computers are good at doing repetative action many times - this is perfect for creating all sort of geometric patterns.
+Computers are good at doing repetitive action many times - this is perfect for creating all sort of geometric patterns.
 
 ![Geometric](geom.png)
 
@@ -33,7 +33,7 @@ To achieve more unique looking images  we can use algorithms with randomness:
 
 ![Boxes](https://media.blackbird.pw/gallery/misc/algoart/boxes.png)
 
-Then we keep doing that until all visible structure dissapeared and the image looks completely random, despite being created by appying well defined rules:
+Then we keep doing that until all visible structure disappeared and the image looks completely random, despite being created by applying well defined rules:
 
 ![Graphite](https://media.blackbird.pw/gallery/misc/algoart/graphite_w.png)
 
@@ -45,17 +45,15 @@ Sky is the limit! Creative coding is a fun way to merge your creative side with 
 
 ## Is AI art the same thing?
 
-Recently, crating images with the help of AI models became very popular.
+Recently, creating images with the help of AI models became very popular.
 There is some similarity between AI art and algorithmic art: in both cases computer is creating the output.
 
 However, there is a big difference: in case of AI art, no programming is involved.
-The model is trained by obeserving a lot of human-made paintings, and learns to emulate their style and composition while following instructions from the user. These models are easier to use and produce output that much closer to output what can be produced by a human artist.
+The model is trained by observing a lot of human-made paintings, and learns to emulate their style and composition while following instructions from the user. These models are easier to use and produce output that much closer to output what can be produced by a human artist.
 
-In a sense, AI art is a "black box" aproach, while with algorithmic art artist has more control over creation process.
+In a sense, AI art is a "black box" approach, while with algorithmic art artist has more control over creation process.
 We believe algorithmic art is a much better tool for learning programming and recommend it as a starting point.
-As for practical appliations, both approaches can produce uniquely itneresting otputs and which one to use - depends on your objective.
-In face, you can combine AI and algorithmic art approaches for even more outstnading resutls.
+As for practical applications, both approaches can produce uniquely interesting outputs and which one to use - depends on your objective.
+In face, you can combine AI and algorithmic art approaches for even more outstanding results.
 
 If you are interested, read more about [AI art in our blog!]({{< ref "/blog/2024/ai_art" >}})
-
-
