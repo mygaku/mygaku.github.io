@@ -14,7 +14,7 @@ We accept kids from age 8 yeas old, adult classes are also available.
 
 Our approach is to foster deep understanding of fundamental priciples while developing real applications 👩‍💻.
 
-Course content can be adjusted for your individual needs and preparation level. If you don't know where to start, here are the recommended options:
+For beginners, we provide the following corses:
 
 ## Python basics and fundamental algorithms.
 
@@ -32,7 +32,8 @@ Read more about [creative coding in our blog!]({{< ref "/blog/2024/creative_codi
 
 ## Other directions
 
-In general we can provide guidance in the following areas:
+If you are looking for mode advanced or specialized training, we can provide coruses up to a graduate level of computer science univercity curriculum.
+In general we specialize provide guidance in the following areas:
 
 - Python: essential progamming skills, automation of everyday tasks
 - machine learning and data analysis

@@ -12,20 +12,10 @@ along with textual desciption. During this process the model "learns" how images
 
 Later on, given a rquest for a used (called "prompt") model generates and output by combining all the little nuances it learned from training data.
 
-Most of currently used image generating models used something called a "diffusion". The main idea is that, first of all, 
+Most of currently used image generating models used something called a "diffusion".
 
+The main idea is that, first of all, an input image is converted into the noise, and them model tries to "restore" original image from it.
+This is a very improtant point, because when we use a model to generate a new image, we have to provide a noise as an inpiut.
+Because this noise can be unique each time - each the model will produce a completely new output!
 
-
-art like a super creative copycat artist. Here's the process in a nutshell:
-
-    Training: The artist feeds the AI 
-    
-     like showing it a giant art museum. This teaches the AI different styles, colors, and ways of putting things together.
-
-    Prompt Time: You, the artist, give the AI instructions like, "Paint a portrait of a cat wearing a hat, riding a skateboard in a sunset." This is called a prompt.
-
-    AI Gets to Work: The AI uses its knowledge from all those pictures to imagine what your described scene might look like. It starts with a jumble of pixels and keeps making changes until it comes up with something that matches your prompt and its own artistic understanding.
-
-    Tweaking for Perfection: You can see the AI's creation and ask it to make changes, like making the hat red or the sunset more pink. The AI keeps learning from your feedback and refines the image until you're happy.
-
-So, it's like the AI takes inspiration from all the art it's seen and uses that knowledge to create something new based on your ideas!
+SOME ILLUSTRATION HERE OF THIS PROCESS
