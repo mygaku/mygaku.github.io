@@ -12,7 +12,7 @@ showDate: false
 
 We accept kids from age 8 yeas old, adult classes are also available.
 
-Our approach is to foster deep understanding of fundamental priciples while developing real applications 👩‍💻.
+Our approach is to foster deep understanding of fundamental principles while developing real applications 👩‍💻.
 
 For beginners, we provide the following corses:
 
@@ -24,20 +24,20 @@ For beginners, we provide the following corses:
 
 🎨 Creative coding is where art and programming collide!
 Rather than just building functional programs, we will use code as a tool for artistic expression.
-The goal of this course is to not only achieve aethetically pleasing results (though it in itself is a lot of fun!),
-but also, while doing so, develop a solid command of Python programing language and essential coding skills.
+The goal of this course is to not only achieve aesthetically pleasing results (though it in itself is a lot of fun!),
+but also, while doing so, develop a solid command of Python programming language and essential coding skills.
 From simple 2D graphic, we can venture into 3D, music, animation and game development, AI art - the sky is the limit.
 
 Read more about [creative coding in our blog!]({{< ref "/blog/2024/creative_coding" >}})
 
 ## Other directions
 
-If you are looking for mode advanced or specialized training, we can provide coruses up to a graduate level of computer science univercity curriculum.
+If you are looking for mode advanced or specialized training, we can provide courses up to a graduate level of computer science university curriculum.
 In general we specialize provide guidance in the following areas:
 
-- Python: essential progamming skills, automation of everyday tasks
+- Python: essential programming skills, automation of everyday tasks
 - machine learning and data analysis
-- backend developent
+- backend development
 - C and C++ programming languages
 - high performance computing
 - scientific computing
