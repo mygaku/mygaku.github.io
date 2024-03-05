@@ -23,3 +23,10 @@ Because this noise can be made unique each time - each the model will produce a 
 To try AI art you can either use one of the many free or payed services available on the Internet: Gemini, ChatGPT, NightCafe etc.
 
 Or you can run any of publicly available models on your own computer with specialized software either with graphical (usually web-based) user interface, or programmatically with language like Python, using corresponding software libraries.
+
+## A couple of images we generated for your enjoyment
+{{< gallery >}}
+  <img src="bay.jpg" class="grid-w33" />
+  <img src="stream.jpg" class="grid-w33" />
+  <img src="scifi.jpg" class="grid-w33" />
+{{< /gallery >}}

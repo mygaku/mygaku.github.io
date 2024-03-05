@@ -16,7 +16,7 @@ Our approach is to foster deep understanding of fundamental principles while dev
 
 For beginners, we provide the following corses:
 
-## Python basics and fundamental algorithms.
+## Python basics and fundamental algorithms
 
 🐍 Python is a versatile and beginner-friendly language that opens the door to endless possibilities. It's not just about coding; it's about problem-solving, creativity, and having fun while learning valuable skills for the future!
 
@@ -47,6 +47,7 @@ In general we specialize provide guidance in the following areas:
 Please don't hesitate to ask if something you are interested in is not on the list!
 
 ## Instructors
+
 <div class="">
     <div class="md:flex mt-0">
       <div class="md:shrink-0 mt=0 mr-4" >
