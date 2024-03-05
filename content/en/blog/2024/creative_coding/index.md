@@ -50,5 +50,12 @@ There is some similarity between AI art and algorithmic art: in both cases compu
 
 However, there is a big difference: in case of AI art, no programming is involved.
 The model is trained by obeserving a lot of human-made paintings, and learns to emulate their style and composition while following instructions from the user. These models are easier to use and produce output that much closer to output what can be produced by a human artist.
-Algorithmic art, however, is a more 
+
+In a sense, AI art is a "black box" aproach, while with algorithmic art artist has more control over creation process.
+We believe algorithmic art is a much better tool for learning programming and recommend it as a starting point.
+As for practical appliations, both approaches can produce uniquely itneresting otputs and which one to use - depends on your objective.
+In face, you can combine AI and algorithmic art approaches for even more outstnading resutls.
+
+If you are interested, read more about [AI art in our blog!]({{< ref "/blog/2024/ai_art" >}})
+
 
