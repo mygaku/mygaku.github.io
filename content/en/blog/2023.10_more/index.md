@@ -6,4 +6,4 @@ summary: "Blowfish includes Chart.js for powerful charts and data visualisations
 tags: ["chart", "sample", "graph", "shortcodes"]
 ---
 
-lalalal this is post 2
+lalalal this is test post 2

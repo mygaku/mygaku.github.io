@@ -23,20 +23,32 @@ Algorithmic art can be a fantastic way to learn programming! Here's why:
 - Visual Feedback: Creating algorithmic art gives you immediate visual feedback on how your code is working. If something isn't right, you can see the results right away and adjust your code accordingly.
 - Start Simple, Get Complex: Algorithmic art projects can be scaled to your skill level. You can begin with basic shapes and patterns and gradually progress to more intricate designs as your coding skills improve.
 
+## How to do algorithmic art?
 
+Computers are good at doing repetative action many times - this is perfect for creating all sort of geometric patterns.
 
+![Geometric](geom.png)
 
+To achieve more unique looking images  we can use algorithms with randomness:
 
+![Boxes](https://media.blackbird.pw/gallery/misc/algoart/boxes.png)
+
+Then we keep doing that until all visible structure dissapeared and the image looks completely random, despite being created by appying well defined rules:
+
+![Graphite](https://media.blackbird.pw/gallery/misc/algoart/graphite_w.png)
+
+We can use self-similarity idea to define fractal trees with few lines of code. Or make a whole forest of them!
+
+![Forest](forest.png)
+
+Sky is the limit! Creative coding is a fun way to merge your creative side with the power of computers, while learning important programming skills.
 
 ## Is AI art the same thing?
 
-## memos
-It's like using a paintbrush with code instead of paint.  Anyone can learn creative coding, even if you're new to programming. It's a fun way to merge your creative side with the power of computers.
+Recently, crating images with the help of AI models became very popular.
+There is some similarity between AI art and algorithmic art: in both cases computer is creating the output.
 
-Imagine coding as a tool, not just for building websites or apps, but for making art and creative projects. That's creative coding in a nutshell!
-
-Here's the basic idea:
-
-    Regular coding builds things that work, like a calculator or a to-do list app.
-    Creative coding uses code to make things that are expressive, like animations, games, or even digital paintings.
+However, there is a big difference: in case of AI art, no programming is involved.
+The model is trained by obeserving a lot of human-made paintings, and learns to emulate their style and composition while following instructions from the user. These models are easier to use and produce output that much closer to output what can be produced by a human artist.
+Algorithmic art, however, is a more 
 
