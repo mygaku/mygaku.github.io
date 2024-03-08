@@ -1,8 +1,8 @@
 ---
 title: "Good Input - Good Output"
 date: 2023-03-06
-description: ""
-summary: ""
+description: "lalal"
+summary: "lalala"
 tags: ["education"]
 ---
 
