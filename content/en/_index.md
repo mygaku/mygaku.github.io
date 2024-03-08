@@ -23,8 +23,8 @@ And you can practice together at home 😉
 ## Policy
 
 Study for entrance exams is not our goal.
-We nurture the ability to think and create, currently though programming and "English" courses and aim at teaching skills which will be useful throughout student's life.
+We nurture the ability to think and create, currently through programming and English courses. We aim at teaching skills which will be useful throughout student's life.
 
-The lessons we offer are not just for fun. The content of the lessons far exceeds that of official educational programs in Japan. Nevertheless, we motivate children to learn by making them feel that the lessons are meaningful.
+The lessons we offer are not just for fun. The content of the lessons far exceeds that of official educational programs in Japan. We motivate children to learn by making them feel that the lessons are meaningful.
 
-For advanced students who are not satisfied with standard school program, we offer a curriculum up to the graduate level with advanced materials.
+For advanced students who are not satisfied with standard school program, we offer an advanced courses with up to the graduate school level curriculum.
