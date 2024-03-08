@@ -7,8 +7,24 @@ description: "Fostering future generation"
 #cascade:
 #  featured_image: '/images/bridge_very_narrow.jpg'
 ---
-Welcome to the Tsugumi Club - a place to learn
-vibrant and innovative school and kids activity center in the heart of Tokyo!
 
-At our center, we believe in nurturing young minds through a dynamic blend of English language learning and the exciting world of programming. Our mission is to provide a creative and engaging environment where children can explore, learn, and grow while developing essential language skills and computer programming knowledge. With a dedicated team of experienced educators and a state-of-the-art facility, we are committed to inspiring the next generation of learners to excel in both language and technology. Join us on this exciting educational journey where language and programming converge, fostering a love for learning that will last a lifetime.
+At Tsugumi Club, we challenge the very concept of "learning".
+We believe that the core impulse should come from students themselves - our role is to show how fun learning can be and to provide guidance when it is needed.
 
+
+## Features of Tsugumi Club
+
+1. Small groups allow for interactive classes, where we don't just sit quietly and solve problems - everybody has a change to speak and be heard.
+
+2. Parents can also participate!
+Students do presentations, recitals and all sorts of performances - you would see the results of your child's progress right away.
+And you can practice together at home 😉
+
+## Policy
+
+Study for entrance exams is not our goal.
+We nurture the ability to think and create, currently though programming and "English" courses and aim at teaching skills which will be useful throughout student's life.
+
+The lessons we offer are not just for fun. The content of the lessons far exceeds that of official educational programs in Japan. Nevertheless, we motivate children to learn by making them feel that the lessons are meaningful.
+
+For advanced students who are not satisfied with standard school program, we offer a curriculum up to the graduate level with advanced materials.
