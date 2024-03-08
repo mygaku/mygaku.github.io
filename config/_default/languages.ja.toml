@@ -1,7 +1,7 @@
 languageCode = "ja"
 languageName = "Japanese"
 weight = 1
-title = "ツグミ・クラブ"
+title = "つぐみクラブ"
 contentDir = "content/ja"
 
 [params]
