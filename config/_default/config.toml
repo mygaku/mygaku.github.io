@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://mygaku.com/"
+baseURL = "https://tsugumi.club/"
 defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = true
 
