@@ -1929,6 +1929,10 @@ input[type="range"]:active::-webkit-slider-thumb {
   width:6rem
 }
 
+.w-28 {
+  width:7rem
+}
+
 .w-3 {
   width:0.75rem
 }
@@ -2550,6 +2554,14 @@ input[type="range"]:active::-webkit-slider-thumb {
 
 .pl-\[24px\] {
   padding-left:24px
+}
+
+.pr-1 {
+  padding-right:0.25rem
+}
+
+.pr-2 {
+  padding-right:0.5rem
 }
 
 .pr-\[24px\] {
