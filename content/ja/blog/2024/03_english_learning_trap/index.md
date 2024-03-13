@@ -28,8 +28,4 @@ cascade:
 
 私は、脳が発達してきて言語を知的に楽しむことが可能になってから英語をスタートするのが一番効率が良いのではないかと考えています。
 
-{{< gallery >}}
-  <img src="featured.jpg" class="h-64" />
   <img src="kids_english2.png" class="h-64" />
-  <img src="kids_english3.png" class="h-64" />
-{{< /gallery >}}
