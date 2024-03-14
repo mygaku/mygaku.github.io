@@ -1,6 +1,6 @@
 ---
 title: "つぐみクラブについて"
-description: "lalala"
+description: "「学び」の姿勢を変えます"
 showDate: false
 cascade:
   featured_image: '/images/bridge_very_narrow.jpg'
