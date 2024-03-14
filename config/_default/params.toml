@@ -17,7 +17,7 @@ enableCodeCopy = true
 
 disableImageOptimization = true
 
-defaultBackgroundImage = "images/bridge_very_narrow.jpg" # used as default for background images 
+defaultBackgroundImage = "images/sakura.jpg" # used as default for background images 
 defaultFeaturedImage = "images/bridge_very_narrow.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
