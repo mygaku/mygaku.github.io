@@ -1556,6 +1556,10 @@ input[type="range"]:active::-webkit-slider-thumb {
   grid-row-start:2
 }
 
+.float-right {
+  float:right
+}
+
 .float-left {
   float:left
 }
@@ -1711,6 +1715,10 @@ input[type="range"]:active::-webkit-slider-thumb {
 
 .ml-3 {
   margin-left:0.75rem
+}
+
+.ml-4 {
+  margin-left:1rem
 }
 
 .ml-6 {
@@ -1927,10 +1935,6 @@ input[type="range"]:active::-webkit-slider-thumb {
 
 .w-24 {
   width:6rem
-}
-
-.w-28 {
-  width:7rem
 }
 
 .w-3 {

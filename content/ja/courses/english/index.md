@@ -32,14 +32,9 @@ showDate: false
 
 ## 初級コース &nbsp;&nbsp;&nbsp;&nbsp;7,700円(税込)/月
 
-<div class="content flex">
-<!--img src="beginner.jpg" class="float-right w-64"-->
-<p>
 ゲームや歌、劇などの要素を取り入れて、楽しく「使える」英語を
 覚えていきます。ネイティブの子供が、英語を覚えるプロセスと同じ
 ように、まず耳から覚えて自然に口から英語が出る「英語脳」を育てます。
-</p>
-</div>
 
 - フォニックス
 - 英会話
@@ -60,6 +55,12 @@ showDate: false
 
 中級以上は文法のテキストを実費でご購入いただきます。
 ギリシャ神話、聖書、千夜一夜物語、北欧神話、世界の名作。
+
+{{< gallery >}}
+ <img src="beginner.jpg" alt="books for begginers" class="float-right h-64 mr-4 mt-0">
+ <img src="middle.jpg" alt="books for intermediate learners" class="float-left h-64 mr-4 mt-0">
+ <img src="advance.jpg" alt="books for advanced students" class="float-left h-64 mr-4 mt-0">
+{{< /gallery >}}
 
 ## 講師について
 
