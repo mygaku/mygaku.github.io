@@ -7,7 +7,7 @@ tags: ["programming", "art"]
 ---
 
 Creative coding is about using programming for creative expression:
-making aesthetically appealing images, animation, music, etc. 
+making aesthetically appealing images, animation, music, etc.
 Perhaps the most well known form of creative coding is *algorithmic (also called generative) art*.
 Creative coding and algorithmic art are closely related, but there's a subtle difference in focus:
 
@@ -27,15 +27,18 @@ Algorithmic art can be a fantastic way to learn programming! Here's why:
 
 Computers are good at doing repetitive action many times - this is perfect for creating all sort of geometric patterns.
 
-![Geometric](geom.png)
+<img src="geom_l.png" class="pic_light">
+<img src="geom.png" class="pic_dark">
 
 To achieve more unique looking images  we can use algorithms with randomness:
 
-![Boxes](https://media.blackbird.pw/gallery/misc/algoart/boxes.png)
+<img src="boxes_l.png" class="pic_light">
+<img src="https://media.blackbird.pw/gallery/misc/algoart/boxes.png" class="pic_dark">
 
 Then we keep doing that until all visible structure disappeared and the image looks completely random, despite being created by applying well defined rules:
 
-![Graphite](https://media.blackbird.pw/gallery/misc/algoart/graphite_w.png)
+<img src="graphite.png" class="pic_light">
+<img src="https://media.blackbird.pw/gallery/misc/algoart/graphite_w.png" class="pic_dark">
 
 We can use self-similarity idea to define fractal trees with few lines of code. Or make a whole forest of them!
 

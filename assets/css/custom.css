@@ -70,3 +70,19 @@
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
+
+.pic_light {
+  display: block;
+}
+
+.pic_dark {
+  display: none;
+}
+
+.dark .pic_light {
+  display: none;
+}
+
+.dark .pic_dark {
+  display: block;
+}
