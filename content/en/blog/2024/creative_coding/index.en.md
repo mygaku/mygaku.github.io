@@ -27,8 +27,8 @@ Algorithmic art can be a fantastic way to learn programming! Here's why:
 
 Computers are good at doing repetitive action many times - this is perfect for creating all sort of geometric patterns.
 
-<img src="geom_l.png" class="pic_light">
-<img src="geom.png" class="pic_dark">
+<img src="geom_l.svg" class="pic_light">
+<img src="geom_d.svg" class="pic_dark">
 
 To achieve more unique looking images  we can use algorithms with randomness:
 

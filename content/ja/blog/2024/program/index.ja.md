@@ -5,7 +5,7 @@ description: "子供の成長に合わせたプログラム"
 summary: "子供の成長に合わせたプログラム"
 tags: ["education"]
 heroStyle: "big"
-showHero: false
+showHero: true
 # background: "/images/bridge_very_narrow.jpg"
 ---
 
